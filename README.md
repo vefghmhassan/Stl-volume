@@ -47,4 +47,14 @@ Optionally, get the number of triangles in the STL file:
 trianglesCount := calc.GetTrianglesCount()
 ```
 
+# Contributing
+We welcome contributions to STLCalc! Please feel free to submit issues, pull requests, or suggest features to enhance the tool's functionality.
+
+
+
+
+
+
+
+
 
